@@ -1,0 +1,6 @@
+.terraform/
+keys/
+*.tfstate
+*.tfstate.backup
+keys.tf
+.terraform*
